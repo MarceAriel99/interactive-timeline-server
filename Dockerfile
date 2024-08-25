@@ -16,6 +16,7 @@ COPY package*.json ./
 
 RUN npm install
 RUN npm install express pg dotenv cors
+RUN npm install multer
 
 WORKDIR /app
 

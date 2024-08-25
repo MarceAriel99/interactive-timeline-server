@@ -1,5 +1,6 @@
 ### misc ###
 .env
+test_images
 
 ### pgadmin ###
 pgadmin_storage
